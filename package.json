@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "getopts": "^2.3.0",
+    "net-snmp": "^3.15.1"
+  }
+}
